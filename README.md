@@ -37,4 +37,4 @@ Raise an issue or a Pull Request if you'd like to see a notebook on a particular
 
 By the end of the course, you ought to be able to work your way through the entire [Sandbox](./sandbox/notebook.ipynb) notebook without using any external help like AI code generation or even documentation!
 
-Once you've gotten that far, congratulations! You're ready to start looking into more advanced data sciences courses and techniques.
+Once you've gotten that far, congratulations! You're ready to start looking into more advanced data science courses and techniques.
