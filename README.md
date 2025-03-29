@@ -3,6 +3,7 @@
 - [Course Introduction and Goals](#course-introduction-and-goals)
 - [Prerequisites](#prerequisites)
 - [Outcomes](#outcomes)
+- [Contents](#contents)
 
 ## Course Introduction and Goals
 
@@ -19,3 +20,21 @@ Setting up your preferred IDE, installing a Python interpreter (and indeed, unde
 ## Outcomes
 
 This is a self-guided course whose expected outcomes are a deeper understanding of what your data science code is actually doing when you are working in Jupyter Notebook. After working with and studying this material, you ought to have a stronger understanding of how to modify your code on the fly and how to get to the results you want faster, with less time searching StackOverflow or asking ChatGPT.
+
+## Contents
+
+This course covers everything you need to learn the basics about the kind of work done by data analysts and data scientists, including:
+
+- [Uploading and Inspecting Data](./uploading-and-inspecting-data/notebook.ipynb)
+  - [Working with Pickled Data](./working-with-pickled-data/notebook.ipynb)
+  - [Working with Dictionaries](./working-with-dictionaries/notebook.ipynb)
+- [Basic Data Interrogation](./basic-data-interrogation/notebook.ipynb)
+- [Symantic Comparison and String Clustering](./symantic-comparison-and-string-clustering/notebook.ipynb)
+
+Raise an issue or a Pull Request if you'd like to see a notebook on a particular subject!
+
+## Sandbox
+
+By the end of the course, you ought to be able to work your way through the entire [Sandbox](./sandbox/notebook.ipynb) notebook without using any external help like AI code generation or even documentation!
+
+Once you've gotten that far, congratulations! You're ready to start looking into more advanced data sciences courses and techniques.
