@@ -29,6 +29,8 @@ This course covers everything you need to learn the basics about the kind of wor
   - [Working with Pickled Data](./working-with-pickled-data/notebook.ipynb)
   - [Working with Dictionaries](./working-with-dictionaries/notebook.ipynb)
 - [Basic Data Interrogation](./basic-data-interrogation/notebook.ipynb)
+- [Statistical Analysis of Queries](./statistical-analysis-of-queries/noteboook.ipynb)
+- [Bayes' Theorum](./bayes-theorum/notebook.ipynb)
 - [Symantic Comparison and String Clustering](./symantic-comparison-and-string-clustering/notebook.ipynb)
 
 Raise an issue or a Pull Request if you'd like to see a notebook on a particular subject!
